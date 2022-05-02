@@ -1,7 +1,7 @@
 {
   "name": "todo-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Udemy-React入門",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
